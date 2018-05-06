@@ -5,4 +5,8 @@ class Student < User
     @knowledge = []
   end
 
+  def knowledge
+
+  end
+
 end
